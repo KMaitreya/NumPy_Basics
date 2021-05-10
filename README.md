@@ -10,4 +10,4 @@ numpy-3 (numpy arrays-2):
 In this notebook we will be doing various operations on arrays.The following is explained with an example; zeros array, ones array, any number array, random decimal array, random integer array, identity matrix, repeating elements in an array, copying an array.
 
 numpy-4 (basic maths):
-In this notebook we will apply basic maths on a numpy array. Function applied on the numpy array are basic arithmetics, power, trigonometry fucntions.
+In this notebook we will apply basic maths on a numpy array. Function applied on the numpy array are basic arithmetics, power, trigonometry fucntions. Matrix multiplication and determinant has been added
