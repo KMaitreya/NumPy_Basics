@@ -14,3 +14,6 @@ In this notebook we will apply basic maths on a numpy array. Function applied on
 
 numpy-5 (basic statistics):
 In this notebook we will apply basics of ststs such as max min and sum on numpy array.
+
+numpy-6 (reorganizing arrays):
+This notebook is completely dedicated to reorganizing arrays.It consists of reshaping, verticalStack and horizontalStack.
